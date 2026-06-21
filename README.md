@@ -2,4 +2,4 @@
 
 Mais um repositorio
 
-Me preparando para desenvolvervde verdade no mundo da tecnologia e da progarmação
+Me preparando para desenvolver de verdade no mundo da tecnologia e da progarmação
