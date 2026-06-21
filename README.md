@@ -3,3 +3,5 @@
 Mais um repositorio
 
 Me preparando para desenvolver de verdade no mundo da tecnologia e da progarmação
+
+Fazendo alterações até aprimorar completamentre a minha abilidade com o Github!!
