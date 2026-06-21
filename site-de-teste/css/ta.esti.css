@@ -1,0 +1,79 @@
+.c1{
+    width: 190px; height: 254px;
+    background: black;
+    border: 1px solid white;
+    color: aliceblue;
+    position: absolute;
+    transition: 3s ease-in-out;
+    cursor: pointer; display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px; 
+    box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 3);
+}
+.c1:hover{
+    background-color: white;
+    color: black;
+    cursor: auto;
+}
+.c2{
+     width: 190px; height: 254px;
+    background: black;
+    border: 1px solid white;
+    color: aliceblue;
+    position: absolute;
+    transition: 3s ease-in-out;
+    cursor: pointer; display: flex;
+    align-items: first baseline;
+    justify-content: center;
+    border-radius: 20px; 
+    box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 3);
+
+}
+.c2:hover{
+     background-color: white;
+    color: black;
+    cursor: auto;
+}
+.c3{
+    position: 50px;
+     width: 190px; height: 254px;
+    background: black;
+    border: 1px solid white;
+    color: aliceblue;
+    position: absolute;
+    transition: 3s ease-in-out;
+    cursor: pointer; display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px; 
+    box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 3);
+}
+.c4{
+    position: 50px;
+     width: 190px; height: 254px;
+    background: black;
+    border: 1px solid white;
+    color: aliceblue;
+    position: absolute;
+    transition: 3s ease-in-out;
+    cursor: pointer; display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px; 
+    box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 3);
+}
+.c5{
+     position: 50px;
+     width: 190px; height: 254px;
+    background: black;
+    border: 1px solid white;
+    color: aliceblue;
+    position: absolute;
+    transition: 3s ease-in-out;
+    cursor: pointer; display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px; 
+    box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 3);
+}
